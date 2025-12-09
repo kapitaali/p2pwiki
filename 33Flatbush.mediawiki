@@ -1,4 +1,0 @@
-Listserv: http://lists.ourproject.org/cgi-bin/mailman/listinfo/sarapis-discuss
-
-
-[[Category:Sarapis]]

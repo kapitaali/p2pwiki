@@ -1,2 +1,0 @@
-
-See [[GNU_Affero_General_Public_License]]
